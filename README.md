@@ -9,6 +9,8 @@ an HTTP error message will be sent to the client.
 # Dependencies
 The project Will run without Making any pip install
 # How To use
-Open the Tirnmenal and write the following command
-py Networks_Project.py 127.0.0.1
+Open the Tirnmenal and write the following command:
+
+py Networks_Project.py 127.0.0.1 
+
 This command will active your Proxy server
